@@ -69,11 +69,4 @@
 
 <br/>  
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=PatrykBielanin&&style=flat-square)  
-  
-
 <br/>  
