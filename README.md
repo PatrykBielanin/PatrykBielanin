@@ -18,8 +18,8 @@
 </a>  
   
 
-![]()  
-  
+<br/> 
+<br/> 
 
 <br/>  
 
@@ -55,25 +55,6 @@
 </div>  
 
 <br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🔭 I’m currently working on [Better discord cyberpunk theme](https://github.com/PatrykBielanin/discord-cyberpunk2077-theme)  
-  
-
-- 🌱 I’m currently learning Typescript and Node.js  
-
-
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
